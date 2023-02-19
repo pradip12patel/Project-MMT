@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-19T03:04:06 IST" name="Default suite" finished-at="2023-02-19T03:04:33 IST" duration-ms="27655">
+    <groups>
+    </groups>
+    <test started-at="2023-02-19T03:04:06 IST" name="Default test" finished-at="2023-02-19T03:04:33 IST" duration-ms="27655">
+      <class name="TestcaseProject1.verify">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:TestcaseProject1.verify@2c767a52]" started-at="2023-02-19T03:04:06 IST" name="openurl" finished-at="2023-02-19T03:04:18 IST" duration-ms="12372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="verifyMMT()[pri:0, instance:TestcaseProject1.verify@2c767a52]" started-at="2023-02-19T03:04:18 IST" name="verifyMMT" finished-at="2023-02-19T03:04:33 IST" duration-ms="14767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMMT -->
+        <test-method is-config="true" signature="maxiwindow()[pri:0, instance:TestcaseProject1.verify@2c767a52]" started-at="2023-02-19T03:04:33 IST" name="maxiwindow" finished-at="2023-02-19T03:04:33 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxiwindow -->
+      </class> <!-- TestcaseProject1.verify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
